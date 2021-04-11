@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Automation.Matanet.Pages.Products.ProductPageTest" duration-ms="2774" started-at="2021-04-09T04:56:57Z" finished-at="2021-04-09T04:57:00Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="2774" started-at="2021-04-09T04:56:57Z" finished-at="2021-04-09T04:57:00Z">
+      <class name="Automation.Matanet.Pages.Products.ProductPageTest">
+        <test-method status="PASS" signature="startUpBrowser()[pri:0, instance:Automation.Matanet.Pages.Products.ProductPageTest@2b48a640]" name="startUpBrowser" is-config="true" duration-ms="271" started-at="2021-04-09T11:56:57Z" finished-at="2021-04-09T11:56:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUpBrowser -->
+        <test-method status="PASS" signature="openURL()[pri:0, instance:Automation.Matanet.Pages.Products.ProductPageTest@2b48a640]" name="openURL" is-config="true" duration-ms="1409" started-at="2021-04-09T11:56:57Z" finished-at="2021-04-09T11:56:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openURL -->
+        <test-method status="PASS" signature="testCountNumberOfProductsEqual6()[pri:0, instance:Automation.Matanet.Pages.Products.ProductPageTest@2b48a640]" name="testCountNumberOfProductsEqual6" duration-ms="1319" started-at="2021-04-09T11:56:59Z" finished-at="2021-04-09T11:57:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCountNumberOfProductsEqual6 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:Automation.Matanet.Pages.Products.ProductPageTest@2b48a640]" name="closeBrowser" is-config="true" duration-ms="753" started-at="2021-04-09T11:57:00Z" finished-at="2021-04-09T11:57:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Automation.Matanet.Pages.Products.ProductPageTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Automation.Matanet.Pages.Products.ProductPageTest -->
+</testng-results>

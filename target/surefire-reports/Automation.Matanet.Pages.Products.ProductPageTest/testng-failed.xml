@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Automation.Matanet.Pages.Products.ProductPageTest]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="Automation.Matanet.Pages.Products.ProductPageTest">
+        <methods>
+          <include name="openURL"/>
+          <include name="testCountNumberOfProductsEqual6"/>
+          <include name="closeBrowser"/>
+          <include name="startUpBrowser"/>
+        </methods>
+      </class> <!-- Automation.Matanet.Pages.Products.ProductPageTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Automation.Matanet.Pages.Products.ProductPageTest] -->
